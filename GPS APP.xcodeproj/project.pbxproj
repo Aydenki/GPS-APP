@@ -16,6 +16,7 @@
 		2E5E573F29FDDAB200F237DC /* GPS_APPTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E5E573E29FDDAB200F237DC /* GPS_APPTests.swift */; };
 		2E5E574929FDDAB200F237DC /* GPS_APPUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E5E574829FDDAB200F237DC /* GPS_APPUITests.swift */; };
 		2E5E574B29FDDAB200F237DC /* GPS_APPUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E5E574A29FDDAB200F237DC /* GPS_APPUITestsLaunchTests.swift */; };
+		2E5E575829FDDB9700F237DC /* GPSViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E5E575729FDDB9700F237DC /* GPSViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2E5E574429FDDAB200F237DC /* GPS APPUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "GPS APPUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E5E574829FDDAB200F237DC /* GPS_APPUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GPS_APPUITests.swift; sourceTree = "<group>"; };
 		2E5E574A29FDDAB200F237DC /* GPS_APPUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GPS_APPUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2E5E575729FDDB9700F237DC /* GPSViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GPSViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				2E5E572729FDDAB100F237DC /* AppDelegate.swift */,
 				2E5E572929FDDAB100F237DC /* SceneDelegate.swift */,
+				2E5E575729FDDB9700F237DC /* GPSViewController.swift */,
 				2E5E572B29FDDAB100F237DC /* ViewController.swift */,
 				2E5E572D29FDDAB100F237DC /* Main.storyboard */,
 				2E5E573029FDDAB200F237DC /* Assets.xcassets */,
@@ -261,6 +264,7 @@
 				2E5E572C29FDDAB100F237DC /* ViewController.swift in Sources */,
 				2E5E572829FDDAB100F237DC /* AppDelegate.swift in Sources */,
 				2E5E572A29FDDAB100F237DC /* SceneDelegate.swift in Sources */,
+				2E5E575829FDDB9700F237DC /* GPSViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
